@@ -1,0 +1,7 @@
+**/bin/
+**/obj/
+*.userprefs
+*.mdb
+*.exe
+*.dll
+Development/Sandcastle.userprefs
